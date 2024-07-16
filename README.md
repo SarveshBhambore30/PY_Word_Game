@@ -15,5 +15,5 @@ To run this project, you will need to have following :
 - Allow user 5 attempt to guess the word.
 - If user able to identify the correct word Congratulate the User. To identify if user provided word is matching with correct word or not we are 
       using Brute Force Method to check if both words matches properly.
-- Else Show the user correct Answer.
+- Else Show the user correct Answer
 
